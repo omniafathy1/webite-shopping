@@ -1,2 +1,2 @@
-# webite-shopping
+# webite
 shopping by using html ,  css, js
